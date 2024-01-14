@@ -1,0 +1,115 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    height: 120px;
+    background-color: #f6e3ff !important;
+}
+
+.nav-item {
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 20px;
+    font-family: "Lora", serif;
+}
+
+.contact-us {
+    background-color: #ac42df;
+    color: white !important;
+    border-radius: 100px !important;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+    box-shadow: 0px 6px 14px -6px rgba(24, 39, 75, 0.12), 0px 10px 32px -4px rgba(24, 39, 75, 0.1);
+}
+
+.most-popular {
+    margin-top: 0;
+    background-color: white;
+    min-height: 900px;
+}
+
+.most-popular h1 {
+    font-family: "Poppins";
+    font-weight: 900;
+    font-size: 49px;
+    color: #ac42df;
+}
+
+.most-populer .kartu {
+    width: 270px;
+    position: relative;
+}
+
+.most-popular .kartu img {
+    margin-top: 50px;
+    /* margin-left: -37px; */
+    margin-bottom: -20px;
+    width: 300px;
+}
+.most-popular .kartu2 img {
+    margin-top: 20px;
+    /* margin-left: -37px; */
+    margin-bottom: -20px;
+    width: 300px;
+}
+
+.most-popular .kartu h4 {
+    text-align: center;
+    font-size: 20px;
+}
+
+.most-popular .kartu2 h4 {
+    text-align: center;
+    font-size: 20px;
+}
+
+.most-popular .navigasi {
+    margin-top: 40px;
+}
+
+.about-us {
+    background-color: #ac42df;
+    color: white;
+    min-height: 850px;
+}
+
+.about-us h2 {
+    font-family: "Poppins";
+    font-weight: bold;
+}
+
+.about-us p {
+    text-align: justify;
+    font-family: "Poppins";
+}
+
+.footer {
+    background-color: #f6e3ff;
+    min-height: 300px;
+}
+
+.footer p {
+    margin-bottom: 0;
+}
+
+.footer .kedua {
+    color: #ac42df;
+}
+
+.footer .contact {
+    text-align: right;
+}
+
+.footer .sosmed {
+    text-decoration: none;
+    color: #ac42df;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.footer .maps a,
+.footer .contact a {
+    text-decoration: none;
+}
